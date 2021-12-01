@@ -20,7 +20,7 @@ The site offers reminder function of schedules and appointments for users who ha
 - Cockroach db
 - Google Cloud 
 
-##Use of CockroachDB
+## Use of CockroachDB
 - We have used CockroachDB as a primary database because it is an easy-to-use, open-source and indestructible SQL database.
 
 ## Challenges we ran into
